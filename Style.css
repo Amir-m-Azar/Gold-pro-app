@@ -1,0 +1,10 @@
+body { font-family: Tahoma, sans-serif; direction: rtl; background: #111; color: #fff; text-align: center; }
+.container { padding: 20px; max-width: 500px; margin: auto; }
+h1 { color: #ffd700; }
+#iranGold, #worldGold, #sekeBubble, #advice, #stopLoss, #takeProfit, #prediction {
+  font-size: 1.3em; margin: 10px 0; padding: 10px; background: #222; border-radius: 10px;
+}
+#advice.green { background: #2ecc71; }
+#advice.red { background: #e74c3c; }
+#advice.yellow { background: #f1c40f; color: #000; }
+canvas { margin-top: 20px; background: #222; border-radius: 10px; }
